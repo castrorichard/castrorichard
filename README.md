@@ -7,7 +7,6 @@
 </p>
 
 - Back-end em formação 
-- Estudando AWS Cloud Compunting 
 - Ex-Gerente e Analista de Vendas com foco em Lógica de Negócios
 - Em transição de carreira para tecnologia
   
