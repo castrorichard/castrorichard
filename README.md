@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- Back-end em formação 
+- Dev em formação 
 - Ex-Gerente e Analista de Vendas com foco em Lógica de Negócios
 - Em transição de carreira para tecnologia
   
